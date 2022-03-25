@@ -1,4 +1,3 @@
 # JumpIn
 
-# Description: 
-A simple game for children
+Description: A simple game for children
